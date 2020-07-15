@@ -7,7 +7,7 @@ from datetime import date
 # url = "https://covid-19-india-data-by-zt.p.rapidapi.com/GetIndiaStateWiseData"
 # headers = {
 #     'x-rapidapi-host': "covid-19-india-data-by-zt.p.rapidapi.com",
-#     'x-rapidapi-key': "ec9b13e044msh53a46212a68a94dp1a0fb6jsn5ee41f18f4e1"
+#     'x-rapidapi-key': "####"
 #     }
 # response = requests.request("GET", url, headers=headers)
 
