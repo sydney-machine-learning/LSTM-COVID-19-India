@@ -319,8 +319,8 @@ tup = [('df0',df0),('df1',df1),
        ('df8',df8),('df9',df9),
        ('dft',dft),('dfr',dfr)]
 
-trip_train = [[df5,df1,df4,df8,df0],[dft,df0,df5,dfr],[df0,df6,df8,df2],[df1,df6,df4],[df6,df1,df4],[df8,df0,df4]]
-trip_test = [[df50,df10,df40,df80,df00],[dft0,df00,df50,dfr0],[df00,df60,df80,df20],[df10,df60,df40],[df60,df10,df40],[df80,df00,df40]]
+trip_train = [[df5,df1,df4,df8],[dft,df0,df5,dfr],[df0,df6,df8,df2],[df1,df6,df4],[df6,df1,df4],[df8,df0,df4]]
+trip_test = [[df50,df10,df40,df80],[dft0,df00,df50,dfr0],[df00,df60,df80,df20],[df10,df60,df40],[df60,df10,df40],[df80,df00,df40]]
 
 #print(tup)
 
